@@ -1,0 +1,72 @@
+﻿State,Relevant Req’t,MD/DO,Covered Physicians,Req't start date,Req't end date,Hours req'd,Frequency (Years),Topic: Prescribing," Topic: SUD, misuse",Topic: Pain
+AL,Yes,Both,CS,1/1/2018,N/A,2,2,Yes,Yes,Yes
+AK,Yes,Both,CS,7/1/2018,NA,2,2,No,Yes,Yes
+AZ,Yes,MD,All,3/10/2018,3/8/2019,1,2,Yes,No,No
+AZ,Yes,Both,CS,4/26/2018,NA,3,2,No,Yes,No
+AR,Yes,Both,All,7/1/2018,NA,1,1,Yes,No,No
+CA,Yes,Both,All,1/1/2002,12/31/2018,12,One-time,No,No,Yes
+CA,Yes,Both,All,1/1/2019,N/A,12,One-time,No,Yes,Yes
+CA,Yes,Both,All,1/1/2019,N/A,12,One-time,No,Yes,No
+CO,Yes,Both,CS ,10/1/2019,N/A,2,2,Yes,Yes,No
+CT,Yes,Both,All,10/1/2015,N/A,1,6,Yes,No,Yes
+DC,No,-,-,-,-,-,-,-,-,-
+DE,Yes,Both,CS,4/11/2014,N/A,2,2,Yes,No,Yes
+FL,Yes,MD,CS,7/15/2018,N/A,2,2,Yes,Yes,No
+FL,Yes,DO,All,4/10/2010,8/20/2016,1,2,Yes,No,No
+FL,Yes,DO,All,8/21/2016,8/8/2018,1,2,Yes,Yes,No
+FL,Yes,DO,CS,7/11/2018,N/A,2,2,Yes,Yes,No
+GA,Yes,Both,CS,1/1/2018,N/A,3,One-time,Yes,Yes,Yes
+HI,No ,-,-,-,-,-,-,-,-,-
+IA,Yes,Both,All,8/17/2011,7/1/2018,2,5,No,No,Yes
+IA,Yes,Both,CS,4/17/2019,N/A,2,5,Yes,Yes,Yes
+ID,No,-,-,-,N/A,-,-,-,-,-
+IL,Yes,Both,CS,1/1/2020,N/A,3,3,Yes,No,No
+IN,Yes,Both,CS,7/1/2019,N/A,2,2,Yes,Yes,No
+KS,No,-,-,-,N/A,-,-,-,-,-
+KY,Yes,Both,CS,7/1/2012,N/A,4.5,3,No,Yes,Yes
+LA,Yes,Both,CS,1/1/2018,N/A,3,One time,Yes,Yes,No
+MA,Yes,Both,CS,2/1/2012,3/13/2016,3,2,No,Yes,Yes
+MA,Yes,Both,CS,3/14/2016,N/A,3,2,Yes,Yes,Yes
+MD,Yes,Both,CS,10/1/2018,N/A,2,One-time,Yes,No,No
+ME,Yes,MD,All,7/29/2016,N/A,3,2,Yes,No,No
+ME,Yes,DO,CS,7/29/2016,N/A,3,2,Yes,No,No
+MI,Yes,Both,All,12/6/2017,N/A,3,3,No,No,Yes
+MN,Yes ,Both,CS,1/1/2020,N/A,2,3,Yes,No,Yes
+MO,No ,-,-,-,-,-,-,-,-,-
+MS,Yes,Both,All,12/20/2012,6/14/2013,5,2,Yes,No,No
+MS,Yes,Both,CS,6/15/2013,N/A,5,2,Yes,No,No
+MT,No,-,-,-,-,-,-,-,-,-
+NC,Yes,Both,CS,7/1/2017,N/A,3,3,Yes,Yes,Yes
+ND,No,N/A,-,-,N/A,-,-,-,-,-
+NE,Yes,Both,CS,10/1/2018,N/A,3,2,Yes,Yes,No
+NH,Yes,Both,CS,9/1/2016,N/A,3,2,No,Yes,Yes
+NJ,Yes,Both,All,7/1/2017,N/A,1,2,Yes,Yes,Yes
+NM,Yes,MD,CS,9/28/2012,N/A,5,"Once, w/i 1st year",No,No,Yes
+NM,Yes,MD,CS,11/1/2012,2/13/2013,5,3,No,Yes,No
+NM,Yes,MD,CS,2/14/2013,6/30/2014,5,One-time,No,Yes,Yes
+NM,Yes,MD,CS,7/1/2014,N/A,5,3,No,Yes,Yes
+NM,Yes,DO,CS,3/16/2014,6/11/2018,2,One-time,No,No,Yes
+NM,Yes,DO,CS,3/16/2014,N/A ,6,3,Yes,Yes,Yes
+NV,Yes,MD,CS,8/30/2018,N/A,2,2,Yes,Yes,No
+NV,Yes,DO,All,2/27/2018,N/A,2,1,Yes,Yes,No
+NY,Yes,Both,All,6/22/2016,N/A,3,3,Yes,Yes,Yes
+OH,No,-, -,-,-,-,-,-,-,-
+OK,Yes,MD,CS,11/1/2018,N/A,1,1,No,Yes,Yes
+OK,Yes,DO,CS,Prior to 1997,N/A,1,2,Yes,No,No
+OR,Yes,Both,All,7/20/2005,N/A,7,One-time,No,No,Yes
+PA,Yes,Both,All,1/1/2017,N/A,2,2,Yes,Yes,Yes
+PA,Yes,Both,All,1/1/2017,N/A,4,One-time,Yes,Yes,Yes
+RI,Yes,Both,CS,3/22/2017,N/A,8,One-time,Yes,Yes,Yes
+SC,Yes,Both,All,6/6/2014,N/A,2,2,Yes,No,No
+SD,No,-,,-,-,-,-,-,-,-
+TN,Yes,MD,CS,7/1/2014,N/A,2,2,Yes,Yes,No
+TN,Yes,DO,All,7/1/2014,N/A,2,2,Yes,No,No
+TX,Yes,Both,All,9/1/2020,N/A,2,2,Yes,No,Yes
+UT,Yes,Both,CS,1/1/2014,N/A,3.5,2,Yes,No,No
+VA,Yes,Both,CS,7/1/2016,N/A,2,2,Yes,Yes,Yes
+VT,Yes,MD,CS,12/1/2012,10/14/2017,1,2,Yes,No,No
+VT,Yes,MD,CS,10/15/2017,N/A,2,2,Yes,Yes,Yes
+WA,Yes,Both,CS,1/1/2019,N/A,1,One-time,Yes,No,No
+WI,Yes,Both,CS,1/1/2017,N/A,2,2,Yes,No,No
+WV,Yes,Both,CS,5/1/2014,N/A,3,2,Yes,Yes,Yes
+WY,Yes,Both,CS,7/1/2019,N/A,1,2,Yes,Yes,No

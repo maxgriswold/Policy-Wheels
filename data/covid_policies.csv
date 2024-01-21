@@ -1,0 +1,52 @@
+﻿state,Telehealth parity (Private insurers),Telehealth parity (Medicaid),Behavioral health via telehealth,DEA waiver for opioid treatment,Prior authorization ban
+Alabama,0,0,1,1,0
+Alaska,0,0,1,1,1
+Arizona,1,1,1,1,1
+Arkansas,0,1,1,1,1
+California,1,1,1,1,1
+Colorado,1,0,1,0,1
+Connecticut,0,0,1,1,1
+Delaware,1,1,1,1,1
+DC,0,0,1,1,0
+Florida,0,0,1,1,1
+Georgia,1,0,0,1,1
+Hawaii,1,0,1,1,1
+Idaho,0,0,1,1,1
+Illinois,0,1,1,1,1
+Indiana,0,0,0,1,1
+Iowa,0,1,1,1,0
+Kansas,0,0,1,0,1
+Kentucky,1,0,1,0,1
+Louisiana,0,0,1,1,0
+Maine,0,1,1,1,1
+Maryland,0,0,1,1,1
+Massachusetts,0,1,1,1,1
+Michigan,0,0,1,1,1
+Minnesota,1,0,1,0,1
+Mississippi,0,0,1,1,1
+Missouri,0,0,1,1,1
+Montana,1,1,0,0,1
+Nebraska,0,0,1,1,1
+Nevada,0,0,1,1,0
+New Hampshire,0,1,1,1,1
+New Jersey,1,1,1,0,1
+New Mexico,1,1,1,1,1
+New York,0,1,1,1,1
+North Carolina,0,0,1,1,1
+North Dakota,0,0,1,1,1
+Ohio,0,0,1,1,1
+Oklahoma,0,0,1,1,1
+Oregon,0,0,1,1,1
+Pennsylvania,0,0,1,0,1
+Rhode Island,0,1,1,1,1
+South Carolina,0,0,1,1,0
+South Dakota,0,0,1,0,0
+Tennessee,1,0,1,0,0
+Texas,0,1,1,1,0
+Utah,1,0,0,1,1
+Vermont,1,1,1,1,1
+Virginia,0,0,1,1,0
+Washington,1,1,1,1,1
+West Virginia,0,0,1,0,1
+Wisconsin,0,0,1,1,1
+Wyoming,0,0,1,0,1
